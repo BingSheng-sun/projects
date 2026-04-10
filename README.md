@@ -50,7 +50,7 @@ tags:
 <img src="006-obsidian移植\编程开发与数据处理\obsidian 学习使用\obsidian使用学习测试\附件\屏幕截图 2026-04-10 125643.png">
 > ! 如果图片无法正常显示，请查看此路径：(.\006-obsidian移植\编程开发与数据处理\obsidian 学习使用\obsidian使用学习测试\附件\屏幕截图 2026-04-10 125643.png)
 
-如果你对 obsidian 同样很感兴趣，我推荐你访问一下网站
+如果你对 obsidian 同样很感兴趣，我推荐你访问以下网站
 
 > [!note]
 > [PKMer_PKMer](https://pkmer.cn/)
