@@ -47,8 +47,8 @@ tags:
 
 出于隐私的考虑，这里就不会放置我的 excalidraw 文件，但是请参考下图：
 
-<img src="006-obsidian移植\编程开发与数据处理\obsidian 学习使用\obsidian使用学习测试\附件\屏幕截图 2026-04-10 125643.png" style="zoom:40%;">
-![obsidian 学习地图](.\006-obsidian移植\编程开发与数据处理\obsidian 学习使用\obsidian使用学习测试\附件\屏幕截图 2026-04-10 125643.png)
+<img src="006-obsidian移植\编程开发与数据处理\obsidian 学习使用\obsidian使用学习测试\附件\屏幕截图 2026-04-10 125643.png">
+> ! 如果图片无法正常显示，请查看此路径：(.\006-obsidian移植\编程开发与数据处理\obsidian 学习使用\obsidian使用学习测试\附件\屏幕截图 2026-04-10 125643.png)
 
 如果你对 obsidian 同样很感兴趣，我推荐你访问一下网站
 
